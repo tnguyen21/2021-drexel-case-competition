@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
     for menu in MENUS_TO_SCRAPE:
         # generate query url
-        print('scraping drexel dining menu for:', CODE_TO_MEALTIME[menu[0]], 'day:', day, 'month', month, 'year', year)
+        print('scraping drexel dining menu for:', CODE_TO_MEALTIME[menu[0]], menu[1], menu[2], menu[3])
         url = f"https://drexel.campusdish.com/LocationsAndMenus/UrbanEatery?locationId=9853&storeIds=&mode=Weekly&periodId={menu[0]}&date={menu[1]}%2F{menu[2]}%2F{menu[3]}"
         parsed_page = get_parsed_content(url)
         day_menus = parsed_page.find_all('div', {'class':'menu__day'})
