@@ -1,0 +1,523 @@
+item_name,station,day_served,meal_time,calories,contains_eggs,contains_fish,contains_milk,contains_peanuts,contains_shellfish,contains_soy,contains_treenuts,contains_wheat,is_gluten_free,is_halal,is_kosher,is_locally_grown,is_organic,is_vegan,is_vegetarian
+overnight apples 'n' oats,dtg,wednesday,breakfast,200,False,False,True,False,False,False,False,False,False,,,False,False,False,True
+banana bread,dtg,wednesday,breakfast,170,,,,,,,,,,,,False,False,False,True
+carrot raisin mini muffin,dtg,wednesday,breakfast,100,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+cherry cobbler bread,dtg,wednesday,breakfast,280,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+powdered sugar donut,dtg,wednesday,breakfast,280,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+grits,green st. soup,wednesday,breakfast,90,False,False,False,False,False,False,False,False,False,True,True,False,False,True,True
+old fashioned oatmeal,green st. soup,wednesday,breakfast,110,False,False,False,False,False,False,False,False,False,True,True,False,False,True,True
+biscuits & sausage gravy,streetfare,wednesday,breakfast,570,True,False,True,False,False,True,False,True,False,,,False,False,False,False
+"bacon, egg & cheese muffin",streetfare,wednesday,breakfast,360,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+breakfast burrito,streetfare,wednesday,breakfast,400,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+scrambled eggs,streetfare,wednesday,breakfast,140,True,False,True,False,False,False,False,False,True,,True,False,False,False,True
+almond milk french toast,streetfare,wednesday,breakfast,200,,,,,,,,,,,,False,False,True,True
+hash brown potato patty,streetfare,wednesday,breakfast,130,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+o'brien potatoes,streetfare,wednesday,breakfast,150,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+turkey sausage patty,streetfare,wednesday,breakfast,90,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+apple cinnamon mini muffin,dtg,thursday,breakfast,90,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+southern biscuit,dtg,thursday,breakfast,190,False,False,True,False,False,False,False,True,False,,True,False,False,False,True
+sunrise tex-mex taco,streetfare,thursday,breakfast,280,,,,,,,,,,,,False,False,False,False
+crispy tater tots,streetfare,thursday,breakfast,120,,,,,,,,,,True,,False,False,False,False
+bacon,streetfare,thursday,breakfast,90,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+chocolate chip scone,dtg,friday,breakfast,160,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+whole grain lemon poppy mini muffin,dtg,friday,breakfast,110,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+"ham, egg & cheese bagel",streetfare,friday,breakfast,310,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+lyonnaise potatoes,streetfare,friday,breakfast,120,False,False,False,False,False,False,False,False,True,,True,False,False,True,True
+pork sausage patty,streetfare,friday,breakfast,180,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+blueberry whole grain mini muffin,dtg,sunday,breakfast,80,True,False,True,False,False,True,False,True,False,,,False,False,False,False
+iced cinnamon roll,dtg,sunday,breakfast,220,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+broccoli & cheddar strata,streetfare,sunday,breakfast,240,True,False,True,False,False,True,False,True,False,False,,False,False,False,True
+pork sausage links,streetfare,sunday,breakfast,240,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+belgian waffle,dtg,wednesday,lunch,260,False,False,True,False,False,False,False,True,False,True,True,False,False,False,True
+signature chips,green st. deli,wednesday,lunch,140,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+spicy feta with cauliflower toast,green st. lto,wednesday,lunch,360,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+chicken tenders and fries,ignite grill,wednesday,lunch,620,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+gardenburger black bean burger,ignite grill,wednesday,lunch,270,False,False,False,False,False,True,False,True,False,,True,False,False,True,True
+hamburger,ignite grill,wednesday,lunch,330,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+grilled herb chicken sandwich,ignite grill,wednesday,lunch,330,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+philly cheesesteak,ignite grill,wednesday,lunch,490,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+crispy shoestring french fries,ignite grill,wednesday,lunch,150,False,False,False,False,False,False,False,False,True,True,,False,False,False,False
+eggplant parmesan melt,ignite lto,wednesday,lunch,480,,,,,,,,,,,,False,False,False,False
+"pork, salami and swiss melt",green st. panini,wednesday,lunch,430,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+"chicken, bacon & ranch panini",green st. panini,wednesday,lunch,520,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+grilled cheese sandwich,green st. panini,wednesday,lunch,430,True,False,True,False,False,True,False,False,True,False,,False,False,False,True
+chipotle chicken quesadilla,green st. panini,wednesday,lunch,490,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+broccoli cheddar soup,green st. panini,wednesday,lunch,200,False,False,True,False,False,True,False,True,False,,,False,False,False,False
+chicken noodle soup,green st. panini,wednesday,lunch,70,,,,,,,,,,,,False,False,False,False
+cilantro-lime barley,uc veg hand held,wednesday,lunch,130,False,False,False,False,False,False,False,False,False,,,False,False,True,True
+turmeric & quinoa basmati rice,uc veg hand held,wednesday,lunch,110,False,False,False,False,False,False,False,False,True,,True,False,False,True,True
+blanched cauliflower,uc veg hand held,wednesday,lunch,15,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+blanched fresh kale,uc veg hand held,wednesday,lunch,10,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+mediterranean saute with orzo,uc veg hot,wednesday,lunch,250,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True
+vegetarian chorizo bowl,uc veg lto,wednesday,lunch,590,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+grilled veg & hummus pita,uc veg lto,wednesday,lunch,370,,,,,,,,,,,,False,False,False,True
+strawberry chia toast,uc veg lto,wednesday,lunch,190,False,False,True,False,False,True,False,True,False,False,,False,False,False,True
+vegan kale caesar salad,uc veg salad bar,wednesday,lunch,440,,,,,,,,,,,,False,False,True,True
+veggie antioxidant salad,uc veg salad bar,wednesday,lunch,310,,,,,,,,,,,,False,False,False,True
+marinated green beans & tomato,uc veg salad bar,wednesday,lunch,45,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+rice noodles,uc veg soup,wednesday,lunch,210,,,,,,,,,,,,False,False,True,True
+spicy vegetable gumbo,uc veg soup,wednesday,lunch,40,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+korean vegetable broth,uc veg soup,wednesday,lunch,5,,,,,,,,,,,,False,False,True,True
+dijon fall salad,vespa lto,wednesday,lunch,350,,,,,,,,,,,,False,False,False,False
+garlic herb breadstick,vespa pasta,wednesday,lunch,180,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+pesto cavatappi & vegetables,vespa pizza,wednesday,lunch,280,,,,,,,,,,,,False,False,False,True
+classic cheese pizza,vespa pizza,wednesday,lunch,250,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+mushroom & sausage pizza,vespa pizza,wednesday,lunch,310,True,False,True,False,False,True,False,True,False,,False,False,False,False,False
+pepperoni pizza,vespa pizza,wednesday,lunch,280,True,False,True,False,False,True,False,True,False,,False,False,False,False,False
+italian pork & spinach hoagie,ignite lto,thursday,lunch,640,False,False,True,False,False,True,False,True,False,False,,False,False,False,False
+bistro beet burger,uc veg hot,thursday,lunch,400,,,,,,,,,,,,False,False,True,True
+penne pasta salad,uc veg salad bar,thursday,lunch,130,,,,,,,,,,,,False,False,True,True
+chicken & penne cacciatore,vespa lto,thursday,lunch,240,,,,,,,,,,,,False,False,False,False
+ranch crusted chicken drumstick,vespa pizza,thursday,lunch,320,,,,,,,,,,,,False,False,False,False
+buffalo chicken melt,vespa pizza,thursday,lunch,480,,,,,,,,,,,,False,False,False,False
+peanut butter power sandwich,green st. lto,friday,lunch,470,,,,,,,,,,,,False,False,False,True
+honey dijon chicken snacker,ignite lto,friday,lunch,280,False,False,True,False,False,False,False,True,False,False,,False,False,False,False
+southwest sweet potato,uc veg hot,friday,lunch,360,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True
+sesame noodle salad,uc veg salad bar,friday,lunch,270,,,,,,,,,,,,False,False,True,True
+pan-seared ancho lime cod,vespa lto,friday,lunch,340,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+bbq chicken pizza,vespa pizza,friday,lunch,310,,,,,,,,,,,,False,False,False,False
+white pizza,vespa pizza,friday,lunch,300,True,False,True,False,False,True,False,True,False,,False,False,False,False,True
+mediterranean lentil salad,uc veg salad bar,saturday,lunch,160,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True
+grilled chicken bruschetta,ignite lto,sunday,lunch,180,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+black bean stuffed pepper,uc veg hot,sunday,lunch,170,False,False,False,False,False,False,False,False,True,False,,False,False,True,True
+spicy sweet potato salad,uc veg salad bar,sunday,lunch,120,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+asian chicken flatbread,vespa pizza,sunday,lunch,570,False,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+chicken-bacon ranch flatbread,vespa pizza,sunday,lunch,440,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+devil's food cupcake,dtg,wednesday,dinner,150,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+gingerbread thimble cake,dtg,wednesday,dinner,130,,,,,,,,,,,,False,False,False,False
+peanut butter cookie,dtg,wednesday,dinner,120,True,False,True,True,False,True,False,True,False,,True,False,False,False,True
+shrimp po' boy,green st. lto,wednesday,dinner,500,True,False,True,False,True,False,False,True,False,False,False,False,False,False,False
+chicken cheesesteak,ignite grill,wednesday,dinner,450,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+crispy chicken nuggets,ignite lto,wednesday,dinner,300,,,,,,,,True,False,,,False,False,False,False
+ham & swiss panini,green st. panini,wednesday,dinner,320,,,,,,,,,,,,False,False,False,False
+"melt, chicken, bacon, swiss, chipotle honey, flatbread, wg",green st. panini,wednesday,dinner,640,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+pork carnitas quesadilla,green st. panini,wednesday,dinner,520,,,,,,,,,,,,False,False,False,False
+cranberry-pecan mixed grains,uc veg hand held,wednesday,dinner,160,False,False,False,False,False,False,True,True,False,False,,False,False,True,True
+five spice veggie quinoa bowl,uc veg hot,wednesday,dinner,240,False,False,False,False,False,True,False,True,False,False,,False,False,True,True
+banana berry nutella(r) toast,uc veg lto,wednesday,dinner,510,False,False,True,False,False,True,True,True,False,,,False,False,False,True
+broccoli soup,uc veg soup,wednesday,dinner,120,False,False,False,False,False,False,False,True,False,,,False,False,True,True
+cheeseburger mac & cheese bowl,vespa lto,wednesday,dinner,640,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+bacon-cauliflower flatbread,vespa pizza,wednesday,dinner,500,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+pepperoni melt,vespa pizza,wednesday,dinner,340,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+red velvet cupcake,dtg,thursday,dinner,160,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+sugar cookie,dtg,thursday,dinner,120,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+cherry cheesecake tart,dtg,thursday,dinner,170,,,,,,,,,,,,False,False,False,True
+maple chipotle blt,green st. lto,thursday,dinner,350,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+nachos con queso,ignite lto,thursday,dinner,490,False,False,True,False,False,False,False,False,True,,,False,False,False,False
+grilled vegetable quesadilla,uc veg hot,thursday,dinner,360,,,,,,,,,,,,False,False,True,True
+tortellini alfredo,vespa lto,thursday,dinner,320,True,False,True,False,False,False,False,True,False,,False,False,False,False,False
+buffalo cauliflower pizza,vespa pizza,thursday,dinner,270,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+molten chocolate cake,dtg,friday,dinner,290,True,False,True,False,False,True,False,True,False,False,,False,False,False,True
+chocolate chip cookie,dtg,friday,dinner,120,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+strawberry shortcake parfait,dtg,friday,dinner,170,True,False,True,False,False,True,False,True,False,False,True,False,False,False,False
+chicken & hummus ciabatta,green st. lto,friday,dinner,230,,,,,,,,,,,,False,False,False,False
+avocado ranch crispy chicken sandwich,ignite lto,friday,dinner,510,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+penne,uc veg hot,friday,dinner,100,False,False,False,False,False,False,False,True,False,,True,False,False,True,True
+eggplant parmesan,uc veg hot,friday,dinner,430,,,,,,,,,,,,False,False,True,True
+hearty grain & tomato salad,vespa lto,friday,dinner,250,False,False,False,False,False,False,False,True,False,False,,False,False,False,True
+boom boom chicken flatbread,vespa pizza,friday,dinner,480,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+three cheese bruschetta flatbread,vespa pizza,friday,dinner,470,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+crunchy s'mores bar,dtg,saturday,dinner,270,,,,,,,,,,,,False,False,False,False
+oatmeal raisin cookie,dtg,saturday,dinner,120,True,False,True,False,False,True,True,True,False,,True,False,False,False,True
+roast pork panini,green st. lto,saturday,dinner,430,,,,,,,,,,,,False,False,False,False
+korean bbq tofu,uc veg hot,saturday,dinner,110,False,False,False,False,False,True,False,True,False,False,,False,False,True,True
+seasoned rice,uc veg hot,saturday,dinner,130,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+chicken tikka masala burrito,vespa lto,saturday,dinner,450,False,False,True,False,False,False,False,True,False,False,,False,False,False,False
+grilled vegetable stromboli,vespa pizza,saturday,dinner,250,,,,,,,,,,,,False,False,False,True
+stromboli quattro formaggi,vespa pizza,saturday,dinner,260,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+dulce de leche brownie,dtg,sunday,dinner,230,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+spiced chocolate cupcake,dtg,sunday,dinner,160,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+california turkey bacon wrap,green st. lto,sunday,dinner,160,,,,,,,,,,,,False,False,False,False
+crispy pork sandwich,ignite lto,sunday,dinner,670,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+couscous,uc veg hot,sunday,dinner,100,False,False,False,False,False,False,False,True,False,,True,False,False,True,True
+vegetable balti,uc veg hot,sunday,dinner,100,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+cheesy shrimp alfredo,vespa lto,sunday,dinner,360,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False
+kielbasa mac & cheese,vespa pizza,sunday,dinner,290,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+loaded potato pizza,vespa pizza,sunday,dinner,340,,,,,,,,,,,,False,False,False,False
+cheerios (r) cereal,dtg,monday,breakfast,70,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+bananas foster mini muffin,dtg,monday,breakfast,90,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+cinnamon streusel coffee cake,dtg,monday,breakfast,290,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+powdered sugar donut bites,dtg,monday,breakfast,210,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+egg & cheese muffin,streetfare,monday,breakfast,270,True,False,True,False,False,True,False,True,False,,,False,False,False,False
+cheddar & onion frittata,streetfare,monday,breakfast,270,True,False,True,False,False,False,False,False,True,False,,False,False,False,True
+hash brown potatoes,streetfare,monday,breakfast,130,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+turkey sausage link,streetfare,monday,breakfast,110,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+apple cinnamon scone,dtg,tuesday,breakfast,120,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+double chocolate chip mini muffin,dtg,tuesday,breakfast,120,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+pumpkin pie donut bites,dtg,tuesday,breakfast,210,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+three cheese & ham strata,streetfare,tuesday,breakfast,300,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+home fries,streetfare,tuesday,breakfast,140,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+cranberry-peach mini muffin,dtg,wednesday,breakfast,90,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+cinnamon-sugar donut,dtg,wednesday,breakfast,280,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+donut bites,dtg,thursday,breakfast,210,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+whole grain blueberry mini muffin,dtg,thursday,breakfast,80,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+moist apple crumb cake,dtg,thursday,breakfast,300,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+chocolate donut bites,dtg,friday,breakfast,210,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+pumpkin & cheese mini muffin,dtg,friday,breakfast,100,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+breakfast stromboli with sausage,streetfare,friday,breakfast,380,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+middle eastern chickpea toast,green st. lto,monday,lunch,270,,,,,,,,,,,,False,False,False,True
+mozzarella sticks,ignite grill,monday,lunch,480,,,True,,,,,True,False,,,False,False,False,False
+fish and chips,ignite lto,monday,lunch,370,False,True,True,False,False,False,False,True,False,,,False,False,False,False
+ham & swiss melt,green st. panini,monday,lunch,500,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+italian meat lover's panini,green st. panini,monday,lunch,340,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+chipotle chicken tortilla soup,green st. panini,monday,lunch,100,,,,,,,,,,,,False,False,False,False
+minestrone soup,green st. panini,monday,lunch,110,True,False,True,False,False,True,False,True,False,,,False,False,False,False
+sriracha-slaw black bean burger,uc veg hot,monday,lunch,360,False,False,False,False,False,True,False,True,False,False,,False,False,True,True
+smashed avocado toast,uc veg lto,monday,lunch,230,False,False,False,False,False,True,False,True,False,,,False,False,False,True
+pickled cucumber & mint salad,uc veg salad bar,monday,lunch,30,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+buffalo chicken mac & cheese,vespa lto,monday,lunch,310,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+garlic shrimp flatbread,vespa pizza,monday,lunch,430,True,False,True,False,True,True,False,True,False,,False,False,False,False,False
+mushroom & onion pizza,vespa pizza,monday,lunch,270,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+italian wrap,green st. lto,tuesday,lunch,210,,,,,,,,,,,,False,False,False,False
+portobello mushroom taco with corn,uc veg hot,tuesday,lunch,140,,,,,,,,,,,,False,False,True,True
+arugula chickpea salad,uc veg salad bar,tuesday,lunch,130,False,False,False,False,False,False,False,False,False,False,,False,False,False,True
+rigatoni with anise herbed pulled pork,vespa lto,tuesday,lunch,680,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+shakshuka pizza,vespa pizza,tuesday,lunch,350,,,,,,,,,,,,False,False,False,True
+grilled vegetable pizza,vespa pizza,tuesday,lunch,610,,,,,,,,,,,,False,False,False,False
+grilled chicken caesar wrap,green st. lto,wednesday,lunch,300,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+buffalo-style chicken wings,ignite lto,wednesday,lunch,310,,,,,,,,,,,,False,False,False,False
+sweet potato & poblano salad,uc veg salad bar,wednesday,lunch,90,False,False,False,False,False,False,False,False,True,True,,False,False,False,True
+chicken parmesan stromboli,vespa pizza,wednesday,lunch,300,True,False,True,False,False,True,False,True,False,,False,False,False,False,False
+philly cheesesteak stromboli,vespa pizza,wednesday,lunch,340,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+pimento cheese & bacon toast,green st. lto,thursday,lunch,430,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+curried chickpeas,uc veg hot,thursday,lunch,200,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True
+old-fashioned coleslaw,uc veg salad bar,thursday,lunch,150,True,False,False,False,False,False,False,False,True,,,False,False,False,True
+buffalo chicken pizza,vespa pizza,thursday,lunch,270,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+kale pesto turkey ciabatta,green st. lto,friday,lunch,310,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+crispy pollock sandwich,ignite grill,friday,lunch,380,False,True,False,False,False,False,False,True,False,,,False,False,False,False
+buffalo blue chicken panini,green st. panini,friday,lunch,350,,,,,,,,,,,,False,False,False,False
+kung pao cauliflower,uc veg hot,friday,lunch,270,False,False,False,True,False,True,False,True,False,,False,False,False,True,True
+creamy vegan potato salad,uc veg salad bar,friday,lunch,190,False,False,False,False,False,False,False,False,True,False,,False,False,True,True
+super veggie whole grain flatbread,vespa pizza,friday,lunch,300,False,False,True,False,False,True,False,True,False,True,False,False,False,False,True
+mediterranean white bean salad,uc veg salad bar,saturday,lunch,90,False,False,False,False,False,False,False,False,True,,True,False,False,True,True
+mexican black bean salad,uc veg salad bar,sunday,lunch,130,False,False,False,False,False,False,False,False,True,False,,False,False,True,True
+chocolate chip blondie,dtg,monday,dinner,280,True,False,True,False,False,True,False,True,False,False,,False,False,False,True
+pumpkin whoopie pie,dtg,monday,dinner,190,,,,,,,,,,,,False,False,False,True
+seasoned roast beef,green st. deli,monday,dinner,120,False,False,False,False,False,False,False,False,True,True,,False,False,False,False
+chicken guacamole wrap,green st. lto,monday,dinner,180,,,,,,,,,,,,False,False,False,False
+turkey burger on white roll,ignite grill,monday,dinner,360,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+hot dog on roll,ignite grill,monday,dinner,310,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+roast beef and swiss melt,green st. panini,monday,dinner,470,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+salami & provolone panini,green st. panini,monday,dinner,580,,,,,,,,,,,,False,False,False,False
+vegan mac & cheese,uc veg hot,monday,dinner,470,,,,,,,,,,,,False,False,True,True
+roasted cauliflower & pimento cheese toast,uc veg lto,monday,dinner,380,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+middle eastern falafel pita,uc veg lto,monday,dinner,420,,,,,,,,,,,,False,False,False,False
+fritos(r) taco pita,vespa lto,monday,dinner,410,False,False,True,False,False,False,False,True,False,,False,False,False,False,False
+chicken enchilada,vespa pizza,monday,dinner,350,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+meat lover's flatbread,vespa pizza,monday,dinner,530,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+chocolate brownie,dtg,tuesday,dinner,190,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+chicken-avocado salad wrap,green st. lto,tuesday,dinner,220,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+chimichurri roasted carrots,uc veg hot,tuesday,dinner,170,False,False,False,False,False,True,False,False,True,True,,False,False,True,True
+bacon bbq mac & cheese bowl,vespa lto,tuesday,dinner,630,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+bbq chicken stromboli,vespa pizza,tuesday,dinner,320,,,,,,,,,,,,False,False,False,False
+philadelphia roast pork stromboli,vespa pizza,tuesday,dinner,270,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+chicken & veggie pita,green st. lto,wednesday,dinner,410,,,,,,,,,,,,False,False,False,False
+shrimp & grits,vespa lto,wednesday,dinner,240,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+chicken fajita pizza,vespa pizza,wednesday,dinner,310,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+taco pizza,vespa pizza,wednesday,dinner,360,,,,,,,,,,,,False,False,False,False
+tandoori chicken wrap,green st. lto,thursday,dinner,350,False,False,True,False,False,False,False,True,False,False,,False,False,False,False
+cheesy bacon cavatappi,vespa lto,thursday,dinner,370,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+chipotle bbq pork flatbread,vespa pizza,thursday,dinner,460,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+margherita pizza,vespa pizza,thursday,dinner,240,,,,,,,,,,,,False,False,False,True
+pesto grilled vegetable wrap,green st. lto,friday,dinner,220,,,,,,,,,,,,False,False,False,True
+chickpea panchmael,uc veg hot,friday,dinner,210,,,,,,,,,,,,False,False,True,True
+tortellini with meatballs,vespa lto,friday,dinner,380,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+meatball stromboli,vespa pizza,friday,dinner,300,,,,,,,,,,,,False,False,False,False
+mediterranean vegetable wrap,green st. lto,saturday,dinner,150,,,,,,,,,,,,False,False,False,True
+cauliflower fried rice,uc veg hot,saturday,dinner,230,,,,,,,,,,,,False,False,True,True
+sauteed bruschetta ravioli,vespa lto,saturday,dinner,310,,,,,,,,,,,,False,False,False,False
+roast pork banh mi,green st. lto,sunday,dinner,420,True,False,False,False,False,False,False,True,False,False,,False,False,False,False
+greek meatball melt,ignite lto,sunday,dinner,460,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+vegan chili con carne bowl,uc veg hot,sunday,dinner,210,,,,,,,,,,,,False,False,True,True
+chicken poblano flatbread,vespa pizza,sunday,dinner,310,False,False,True,False,False,True,False,True,False,,False,False,False,False,False
+spinach & ricotta pizza,vespa pizza,sunday,dinner,270,False,False,True,False,False,False,False,True,False,,False,False,False,False,True
+"bacon, egg & cheese bagel",streetfare,monday,breakfast,510,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+breakfast taco,streetfare,monday,breakfast,240,True,False,True,False,False,False,False,True,False,False,,False,False,False,True
+vanilla iced donut with sprinkles,dtg,tuesday,breakfast,510,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+"sausage, egg & cheese muffin",streetfare,wednesday,breakfast,450,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+tex-mex migas,streetfare,thursday,breakfast,310,,,,,,,,,,,,False,False,False,False
+cinnamon donut bites,dtg,friday,breakfast,210,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+"bacon, cheddar & egg stromboli",streetfare,friday,breakfast,370,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+vanilla iced carrot cake,dtg,monday,lunch,360,True,False,True,False,False,False,True,True,False,,,False,False,False,True
+chipotle pork & avocado wrap,green st. lto,monday,lunch,170,,,,,,,,,,,,False,False,False,False
+vegetarian tomato basil soup,green st. panini,monday,lunch,110,,,,,,,,,,,,False,False,False,True
+vegan thai curry,uc veg hot,monday,lunch,360,,,,,,,,,,,,False,False,True,True
+apple pecan salad,uc veg salad bar,monday,lunch,640,,,,,,,,,,,,False,False,False,False
+thai peanut noodle salad,uc veg salad bar,monday,lunch,190,,,,,,,,,,,,False,False,False,True
+miso soup broth,uc veg soup,monday,lunch,25,False,False,False,False,False,True,False,True,False,False,,False,False,False,False
+ham & feta pizza,vespa pizza,monday,lunch,230,,,,,,,,,,,,False,False,False,False
+apple betty,dtg,tuesday,lunch,200,False,False,True,False,False,True,False,True,False,False,,False,False,False,True
+"turkey, apple & honey mustard bagel",green st. lto,tuesday,lunch,120,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+sweet potato fries,ignite grill,tuesday,lunch,190,,,,,,,,,,True,,False,False,False,False
+tunisian carrot & walnut salad,uc veg salad bar,tuesday,lunch,130,False,False,False,False,False,False,True,False,True,,,False,False,False,True
+pea & mushroom tortellini alfredo,vespa lto,tuesday,lunch,300,True,False,True,False,False,False,False,True,False,,False,False,False,False,False
+cream cheese marbled brownie,dtg,wednesday,lunch,240,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+vegan chipotle chicken taco,uc veg hot,wednesday,lunch,150,,,,,,,,,,,,False,False,True,True
+garlic potato salad,uc veg salad bar,wednesday,lunch,320,,,,,,,,,,,,False,False,False,True
+tortellini rose,vespa lto,wednesday,lunch,240,True,False,True,False,False,False,False,True,False,,False,False,False,False,False
+meat lover's pizza,vespa pizza,wednesday,lunch,350,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+chocolate chip crumb cupcake,dtg,thursday,lunch,190,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+old-fashioned bread pudding,dtg,thursday,lunch,180,,,,,,,,,,,,False,False,False,True
+ranch potato chips,ignite grill,thursday,lunch,140,False,False,True,False,False,False,False,False,False,,,False,False,False,False
+rice noodle & vegetable stir-fry,uc veg hot,thursday,lunch,210,,,,,,,,,,,,False,False,True,True
+caesar pasta salad,uc veg salad bar,thursday,lunch,200,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+penne & sausage,vespa lto,thursday,lunch,380,,,,,,,,,,,,False,False,False,False
+chicken cordon blue stromboli,vespa pizza,thursday,lunch,330,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+wicked chocolate thimble cake,dtg,friday,lunch,130,True,False,True,False,False,True,False,True,False,,,False,False,False,False
+chicken salad club,green st. lto,friday,lunch,250,,,,,,,,,,,,False,False,False,False
+twister fries,ignite grill,friday,lunch,310,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False
+fish sticks,ignite lto,friday,lunch,170,False,True,True,False,False,False,False,True,False,,,False,False,False,False
+vegan nachos,uc veg hot,friday,lunch,280,False,False,False,False,False,True,False,True,False,False,,False,False,True,True
+garbanzo bean salad,uc veg salad bar,friday,lunch,90,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+penne with chicken & kale,vespa lto,friday,lunch,230,,,,,,,,,,,,False,False,False,False
+chicken parmesan pizza,vespa pizza,friday,lunch,270,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+cucumber & onion salad,uc veg salad bar,saturday,lunch,150,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+sweet apple coleslaw,uc veg salad bar,sunday,lunch,60,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+crispy cereal bar,dtg,monday,dinner,160,,,,,,,,,,,,False,False,False,False
+double fudge brownie,dtg,monday,dinner,300,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+thai chicken lettuce wraps,green st. lto,monday,dinner,60,,,,,,,,,,,,False,False,False,False
+chickpea tagine with couscous,uc veg hot,monday,dinner,270,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True
+arrabiata cheese ravioli,vespa lto,monday,dinner,270,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+cuban stromboli,vespa pizza,monday,dinner,310,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+chilled veggie ciabatta sandwich,green st. lto,tuesday,dinner,180,False,False,True,False,False,False,False,True,False,False,,False,False,False,True
+loaded southern style tots,ignite lto,tuesday,dinner,530,,,,,,,,,,,,False,False,False,False
+cavatappi with spaghetti sauce and zucchini,uc veg hot,tuesday,dinner,270,False,False,False,False,False,False,False,True,False,,,False,False,True,True
+"onion, jalapeno & sausage pizza",vespa pizza,tuesday,dinner,350,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+roasted vegetable wrap,green st. lto,wednesday,dinner,210,True,False,True,False,False,False,False,True,False,False,False,False,False,False,True
+turkey burrito,ignite lto,wednesday,dinner,410,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+mushroom vegetable casserole,uc veg hot,wednesday,dinner,210,False,False,False,False,False,False,False,True,False,False,,False,False,False,True
+toasted barley,uc veg hot,wednesday,dinner,100,False,False,False,False,False,False,False,False,False,True,,False,False,True,True
+butternut squash lasagna,vespa lto,wednesday,dinner,440,True,False,True,False,False,False,False,True,False,,False,False,False,False,True
+portobello & pesto baguette,green st. lto,thursday,dinner,320,True,False,True,False,False,False,False,True,False,False,,False,False,False,True
+cheddar grilled chicken sandwich,ignite lto,thursday,dinner,420,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+vegan baked penne casserole,uc veg hot,thursday,dinner,150,,,,,,,,,,,,False,False,True,True
+baked macaroni & cheese,vespa lto,thursday,dinner,250,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+caramel apple cheesecake flatbread,vespa pizza,thursday,dinner,530,,,,,,,,,,,,False,False,False,True
+chicken cranberry wrap,green st. lto,friday,dinner,270,True,False,True,False,False,False,True,True,False,False,,False,False,False,False
+fruited bulgur salad,uc veg hot,friday,dinner,90,False,False,False,False,False,False,False,True,False,,,False,False,True,True
+bbq beef and cheddar melt,vespa pizza,friday,dinner,400,False,False,True,False,False,False,False,True,False,False,,False,False,False,False
+crunchy onion rings,ignite grill,saturday,dinner,310,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+monte cristo sandwich,ignite lto,saturday,dinner,430,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+buffalo cauliflower wings,uc veg hot,saturday,dinner,460,False,False,False,False,False,True,False,True,False,True,,False,False,True,True
+hawaiian pizza,vespa pizza,saturday,dinner,320,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+grilled vegetable & hummus wrap,green st. lto,sunday,dinner,190,,,,,,,,,,,,False,False,True,True
+tangy cucumber salad,ignite grill,sunday,dinner,20,,,,,,,,,,,,False,False,True,True
+grilled thai chicken wrap,ignite lto,sunday,dinner,270,,,,,,,,,,,,False,False,False,False
+roasted vegetable taco,uc veg hot,sunday,dinner,200,,,,,,,,,,,,False,False,True,True
+"bacon, egg & cheese biscuit sandwich",streetfare,monday,breakfast,300,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+"sausage, egg & cheese croissant",streetfare,tuesday,breakfast,550,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+"egg, ham & cheese burrito",streetfare,wednesday,breakfast,470,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+ham & cheese stuffed potato,streetfare,friday,breakfast,240,,,,,,,,,,,,False,False,False,False
+ultimate fudge brownie,dtg,monday,lunch,190,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+nashville-style hot chicken sandwich,ignite lto,monday,lunch,500,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+italian chicken melt,green st. panini,monday,lunch,450,,,,,,,,,,,,False,False,False,False
+tomato & bacon grilled cheese,green st. panini,monday,lunch,550,,,,,,,,,,,,False,False,False,False
+grilled veggie quesadilla,green st. panini,monday,lunch,310,,,,,,,,,,,,False,False,False,True
+three bean chili,green st. panini,monday,lunch,100,False,False,False,False,False,False,False,False,True,False,,False,False,True,True
+veggie burrito,uc veg hot,monday,lunch,390,False,False,False,False,False,False,False,True,False,False,,False,False,True,True
+green goddess bowl,uc veg lto,monday,lunch,460,True,False,True,False,False,True,False,False,True,False,,False,False,False,True
+cucumber tomato salad,uc veg salad bar,monday,lunch,35,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+vegetarian minestrone soup,uc veg soup,monday,lunch,70,True,False,False,False,False,False,False,True,False,,,False,False,False,True
+turkey muffaletta,green st. lto,tuesday,lunch,220,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+salt & pepper potato chips,ignite grill,tuesday,lunch,130,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+vegan kung pao chicken & kale,uc veg hot,tuesday,lunch,360,False,False,False,True,False,True,False,True,False,False,False,False,False,True,True
+toasted barley salad,uc veg salad bar,tuesday,lunch,60,False,False,False,False,False,False,False,False,False,True,,False,False,True,True
+spicy jerk chicken & cavatappi,vespa lto,tuesday,lunch,400,,,,,,,,,,,,False,False,False,False
+chicken & roasted pear wrap,green st. lto,wednesday,lunch,580,,,,,,,,,,,,False,False,False,False
+fresh-cut french fries,ignite grill,wednesday,lunch,200,,,,,,,,,,,,False,False,False,False
+crispy chicken pepper jack slider,ignite lto,wednesday,lunch,290,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+zucchini bolognese,uc veg hot,wednesday,lunch,220,,,,,,,,,,,,False,False,True,True
+pickled daikon,uc veg salad bar,wednesday,lunch,20,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+pretzel-crusted cod,vespa pizza,wednesday,lunch,290,False,True,True,False,False,True,False,True,False,False,,False,False,False,False
+"ciabatta, roasted turkey salad, cranberry spread, wg, half",green st. lto,thursday,lunch,330,,,,,,,,,,,,False,False,False,False
+asian teriyaki noodles,uc veg hot,thursday,lunch,270,,,,,,,,,,,,False,False,True,True
+red potato salad,uc veg salad bar,thursday,lunch,270,True,False,False,False,False,False,False,False,True,False,,False,False,False,True
+cheesy corn casserole,vespa pizza,thursday,lunch,180,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+vegan chicken paella,uc veg hot,friday,lunch,170,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True
+tomato chickpea salad,uc veg salad bar,friday,lunch,90,False,False,False,False,False,False,False,False,True,,True,False,False,True,True
+buffalo chicken stromboli,vespa pizza,friday,lunch,290,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+italian lentil salad,uc veg salad bar,saturday,lunch,60,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+tabbouleh,uc veg salad bar,sunday,lunch,140,False,False,False,False,False,False,False,True,False,,,False,False,True,True
+potato & kale enchiladas,uc veg hot,monday,dinner,340,,,,,,,,,,,,False,False,True,True
+vegan chicken & kale penne,uc veg lto,monday,dinner,210,,,,,,,,,,,,False,False,False,True
+peanut butter power toast,uc veg lto,monday,dinner,330,,,,,,,,,,,,False,False,False,True
+italian roast beef sandwich,green st. lto,tuesday,dinner,290,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+chili lime black bean tostada,uc veg hot,tuesday,dinner,330,False,False,False,False,False,False,False,True,False,False,,False,False,True,True
+spicy hummus ciabatta,green st. lto,wednesday,dinner,210,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True
+harvest saute with bulgur,uc veg hot,wednesday,dinner,310,False,False,False,False,False,False,False,True,False,False,,False,False,True,True
+buffalo chicken wrap,green st. lto,thursday,dinner,230,,,,,,,,,,,,False,False,False,False
+old bay (r) potato chips,ignite grill,thursday,dinner,140,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+italian roast pork wrap,ignite lto,thursday,dinner,750,,,,,,,,,,,,False,False,False,False
+meatball pizza,vespa pizza,thursday,dinner,310,True,False,True,False,False,True,False,True,False,,False,False,False,False,False
+mexican street corn wrap,green st. lto,friday,dinner,240,True,False,True,False,False,False,False,True,False,False,False,False,False,False,True
+loaded philly tots,ignite lto,friday,dinner,380,,,,,,,,,,,,False,False,False,False
+spinach lentil fritters,uc veg hot,friday,dinner,100,False,False,False,False,False,False,False,True,False,False,,False,False,True,True
+chicken & broccoli ravioli,vespa lto,friday,dinner,320,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+turkey reuben stromboli,vespa pizza,friday,dinner,270,,,,,,,,,,,,False,False,False,False
+grilled veggie & feta ciabatta,green st. lto,saturday,dinner,210,,,,,,,,,,,,False,False,False,True
+fresh cut french fries,ignite grill,saturday,dinner,150,,,,,,,,,,,,False,False,False,False
+beef poutine,ignite lto,saturday,dinner,650,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+vegan frito pie,uc veg hot,saturday,dinner,320,,,,,,,,,,,,False,False,True,True
+pepperoni stromboli,vespa pizza,saturday,dinner,250,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+honey dijon chicken wrap,green st. lto,sunday,dinner,150,,,,,,,,,,,,False,False,False,False
+crispy chicken & cheese snacker,ignite lto,sunday,dinner,240,False,False,True,False,False,False,False,True,False,False,,False,False,False,False
+vegan cavatappi alfredo,uc veg hot,sunday,dinner,370,,,,,,,,,,,,False,False,True,True
+blueberries 'n' oats,dtg,monday,breakfast,140,False,False,True,False,False,False,False,False,False,,,False,False,False,True
+beef & pickled onion-topped hummus,vespa lto,monday,lunch,520,,,,,,,,,,,,False,False,False,False
+mucho nachos,vespa lto,monday,lunch,480,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+toasted bulgur wheat,uc veg hot,tuesday,lunch,130,False,False,False,False,False,False,False,True,False,,True,False,False,True,True
+meat lover's stromboli,vespa pizza,tuesday,lunch,350,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+mushroom pizza,vespa pizza,tuesday,lunch,270,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+grilled naan,ignite lto,wednesday,lunch,250,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+garlic toast,uc veg hot,wednesday,lunch,180,False,False,False,False,False,False,False,True,False,,True,False,False,True,True
+macaroni & cheese,vespa pizza,wednesday,lunch,360,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+spicy kale & bacon,vespa pizza,wednesday,lunch,80,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+sausage pizza,vespa pizza,thursday,lunch,300,True,False,True,False,False,True,False,True,False,,False,False,False,False,False
+cauliflower au gratin,vespa pizza,thursday,lunch,170,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+kale with caramelized onions,uc veg hot,friday,lunch,35,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+caesar salad,vespa pizza,friday,lunch,90,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+southwest chicken taco,vespa lto,monday,dinner,160,True,False,True,False,False,True,False,False,True,False,False,False,False,False,False
+primavera pizza,vespa pizza,monday,dinner,270,,,,,,,,,,,,False,False,False,True
+cocoa puff cupcakes,dtg,tuesday,dinner,210,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+general tso chicken drumstick,vespa pizza,tuesday,dinner,270,False,False,False,False,False,True,False,True,False,,False,False,False,False,False
+pepperoni & sausage pizza,vespa pizza,tuesday,dinner,310,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+vegetable fried rice,vespa pizza,tuesday,dinner,180,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+cavatappi alfredo,vespa lto,wednesday,dinner,350,False,False,True,False,False,False,False,True,False,,False,False,False,False,False
+chicken-blue power salad,vespa lto,friday,dinner,460,,,,,,,,,,,,False,False,False,False
+tossed salad,vespa pizza,friday,dinner,30,,,,,,,,,,,,False,False,True,True
+cavatappi alfredo with broccoli,vespa lto,sunday,dinner,240,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+bulgur-quinoa bliss bowl,vespa pizza,sunday,dinner,80,False,False,False,False,False,True,False,True,False,False,,False,False,True,True
+veggie & cheese quiche-adilla,streetfare,thursday,breakfast,310,True,False,True,False,False,False,False,True,False,False,,False,False,False,True
+shrimp & broccoli stir-fry,vespa lto,tuesday,lunch,80,False,True,False,False,True,True,False,True,False,,False,False,False,False,False
+philly cheesesteak wrap,ignite lto,thursday,lunch,460,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+kung pao pork,vespa lto,thursday,lunch,160,False,False,False,True,False,True,False,True,False,,False,False,False,False,False
+grilled chicken parmesan sandwich,ignite lto,friday,lunch,620,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+bow ties with sun-dried tomatoes,vespa lto,friday,lunch,280,False,False,True,False,False,False,False,True,False,False,,False,False,False,True
+chocolate chip devil's food cake,dtg,tuesday,dinner,340,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+cranberry-pear cobbler,dtg,tuesday,dinner,320,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+beef pho,vespa lto,tuesday,dinner,250,,,,,,,,,,,,False,False,False,False
+buffalo cobb salad,vespa lto,tuesday,dinner,260,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+reese's® brownie,dtg,thursday,dinner,370,True,False,True,True,False,True,False,True,False,,True,False,False,False,False
+red velvet thimble cake,dtg,thursday,dinner,90,True,False,True,False,False,True,False,True,False,False,True,False,False,False,False
+sesame noodles,uc veg hot,thursday,dinner,300,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True
+chocolate chip cupcake,dtg,friday,dinner,210,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+raspberry jell-o (r) parfait,dtg,friday,dinner,120,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False
+"sausage, broccoli & cheddar breakfast scramble",vespa lto,friday,dinner,500,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+chocolate chip cookie brownie,dtg,saturday,dinner,280,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+mini chocolate sriracha cake,dtg,saturday,dinner,130,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+vietnamese pork noodle salad,vespa lto,saturday,dinner,320,,,,,,,,,,,,False,False,False,False
+vanilla cupcake,dtg,sunday,dinner,150,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+confetti brown rice,uc veg hot,sunday,dinner,120,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+shrimp teriyaki,vespa lto,sunday,dinner,80,False,False,False,False,True,True,False,True,False,,False,False,False,False,False
+sweet potato mini muffin,dtg,monday,breakfast,80,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+apple-topped cinnamon roll,dtg,monday,breakfast,100,True,False,True,False,False,True,False,True,False,,True,False,False,False,True
+banana-nut mini muffin,dtg,tuesday,breakfast,80,True,False,True,False,False,True,True,True,False,True,,False,False,False,True
+spiced pumpkin scone,dtg,tuesday,breakfast,150,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+sausage & egg pizza,streetfare,tuesday,breakfast,440,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+caramel pecan brownie,dtg,monday,lunch,240,True,False,True,False,False,True,True,True,False,True,True,False,False,False,False
+chicken blt sandwich,ignite lto,monday,lunch,620,True,False,True,False,False,False,False,True,False,False,,False,False,False,False
+new england clam chowder,green st. panini,monday,lunch,210,,,,,,,,,,,,False,False,False,False
+latin beef stew,streetfare,monday,lunch,100,,,,,,,,,,,,False,False,False,False
+italian vegetable blend,streetfare,monday,lunch,35,,,,,,,,,,True,,False,False,True,True
+harissa spiced farro,uc veg hand held,monday,lunch,160,False,False,False,False,False,False,False,True,False,,True,False,False,True,True
+seven grain blend with wild rice,uc veg hand held,monday,lunch,230,False,False,False,False,False,False,False,True,False,,,False,False,True,True
+basmati rice,uc veg hot,monday,lunch,130,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+barley & mushroom soup,uc veg soup,monday,lunch,110,False,False,True,False,False,True,False,True,False,,,False,False,False,False
+harissa chicken quesadilla,vespa lto,monday,lunch,440,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+egg noodles,streetfare,tuesday,lunch,90,True,False,False,False,False,False,False,True,False,,True,False,False,False,True
+chicken with marsala sauce,streetfare,tuesday,lunch,190,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+green beans & almonds,streetfare,tuesday,lunch,70,,,,,,,,,,,,False,False,False,True
+chicken teriyaki,vespa lto,tuesday,lunch,130,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+shrimp etouffee,streetfare,wednesday,lunch,100,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False
+cajun rice,streetfare,wednesday,lunch,140,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+crispy okra,streetfare,wednesday,lunch,110,,,True,,,,,True,False,True,,False,False,False,False
+watermelon tomato salad,uc veg hot,wednesday,lunch,30,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+caprese salad,vespa pizza,wednesday,lunch,150,False,False,True,False,False,False,False,False,True,,True,False,False,False,True
+mexican baked fish,streetfare,thursday,lunch,130,False,True,False,False,False,False,False,False,True,True,,False,False,False,False
+papas rancheras,streetfare,thursday,lunch,130,,,,,,,,,,,,False,False,True,True
+grilled eggplant,streetfare,thursday,lunch,100,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+linguine with lemon-garlic shrimp,vespa lto,thursday,lunch,210,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False
+pita wedges,vespa pizza,thursday,lunch,25,False,False,True,False,False,False,False,True,False,True,,False,False,False,True
+sweet & sour meatballs,streetfare,friday,lunch,190,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+quinoa fried rice,streetfare,friday,lunch,130,,,,,,,,,,,,False,False,False,True
+garlic broccoli,streetfare,friday,lunch,40,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+fueled-up chicken & sweet potato salad,vespa lto,friday,lunch,390,True,False,True,False,False,False,True,False,True,False,,False,False,False,False
+garlic flatbread,vespa lto,friday,lunch,200,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+home-style patty melt,ignite lto,monday,dinner,570,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+apple almond coleslaw,ignite lto,monday,dinner,80,,,,,,,,,,,,False,False,False,False
+cajun chicken melt,green st. panini,monday,dinner,430,,,,,,,,,,,,False,False,False,False
+grilled cheese with bacon,green st. panini,monday,dinner,540,,,,,,,,,,,,False,False,False,False
+grilled vegetable panini,green st. panini,monday,dinner,390,,,,,,,,,,,,False,False,False,True
+low sodium vegetable broth,uc veg hand held,monday,dinner,10,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+california blend vegetables,vespa pizza,monday,dinner,20,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+banana chip cupcake,dtg,tuesday,dinner,170,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+creamy cheese polenta,vespa lto,tuesday,dinner,250,False,False,True,False,False,False,False,False,True,False,,False,False,False,True
+hearty lasagna,vespa pizza,tuesday,dinner,290,,,,,,,,,,,,False,False,False,False
+seasoned peas and carrots,vespa pizza,tuesday,dinner,40,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+applesauce cake,dtg,wednesday,dinner,340,,,,,,,,,,,,False,False,False,True
+vanilla pudding & oreo(r) cookies,dtg,wednesday,dinner,210,False,False,True,False,False,True,False,True,False,,True,False,False,False,True
+mashed potatoes & buffalo nuggets,vespa lto,wednesday,dinner,650,,,,,,,,,,,,False,False,False,False
+brownie cupcake,dtg,thursday,dinner,140,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+carrot cake whoopie pie,dtg,thursday,dinner,170,,,,,,,,,,,,False,False,False,True
+jalapeno slaw,vespa pizza,thursday,dinner,35,False,False,False,False,False,False,False,False,True,,True,False,False,True,True
+rocky road brownie,dtg,friday,dinner,270,True,False,True,False,False,True,True,True,False,,,False,False,False,False
+glazed devil's food cake,dtg,friday,dinner,280,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+chicken & quinoa-topped hummus,vespa lto,friday,dinner,430,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+seared vegan caesar wedge salad,vespa lto,friday,dinner,320,,,,,,,,,,,,False,False,True,True
+peanut butter devil's food cupcake,dtg,saturday,dinner,210,,,,,,,,,,,,False,False,False,True
+banana pudding parfait,dtg,saturday,dinner,200,True,False,True,False,False,True,False,True,False,False,True,False,False,False,True
+cheese tortellini marinara,vespa lto,saturday,dinner,230,True,False,True,False,False,False,False,True,False,,False,False,False,False,False
+seasoned spinach,vespa pizza,saturday,dinner,70,False,False,True,False,False,True,False,False,True,,,False,False,False,True
+apple crumb cupcake,dtg,sunday,dinner,150,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+chorizo breakfast burrito,streetfare,thursday,breakfast,580,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+oreo(r) thimble cake,dtg,monday,lunch,110,True,False,True,False,False,True,False,True,False,False,True,False,False,False,False
+chicken with piccata sauce,streetfare,monday,lunch,190,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+confetti rice,streetfare,monday,lunch,150,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+brown rice,uc veg hand held,monday,lunch,110,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+taco salad,vespa lto,monday,lunch,460,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+peanut butter pretzel cereal bar,dtg,tuesday,lunch,300,,,,,,,,,,,,False,False,False,True
+oreo (r) cookie crumb cupcake,dtg,tuesday,lunch,210,True,False,True,False,False,True,False,True,False,True,True,False,False,False,True
+mexi-rice,ignite lto,tuesday,lunch,130,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+southwest green beans,ignite lto,tuesday,lunch,45,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+mole chicken drumstick,streetfare,tuesday,lunch,270,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False
+sofrito black beans & rice,streetfare,tuesday,lunch,190,False,False,False,False,False,False,False,False,True,False,,False,False,True,True
+roasted beets,streetfare,tuesday,lunch,25,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+lemon-ginger basmati rice,uc veg hot,tuesday,lunch,170,,,,,,,,,,,,False,False,True,True
+buffalo mac & cheese bowl,vespa lto,tuesday,lunch,590,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+chocolate pudding parfait,dtg,wednesday,lunch,300,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True
+sugar snap & garden peas,ignite lto,wednesday,lunch,60,False,False,True,False,False,True,False,False,True,,,False,False,False,True
+grilled japanese bbq pork chop,streetfare,wednesday,lunch,180,,,,,,,,,,,,False,False,False,False
+vegetable fried brown rice,streetfare,wednesday,lunch,130,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+grilled vegetables,streetfare,wednesday,lunch,80,False,False,False,False,False,False,False,False,True,True,True,False,False,True,True
+szechuan chicken noodle bowl,vespa lto,wednesday,lunch,260,,,,,,,,,,,,False,False,False,False
+sriracha chocolate pb mini cupcake,dtg,thursday,lunch,170,,,,,,,,,,,,False,False,False,True
+orange jell-o (r) parfait,dtg,thursday,lunch,140,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False
+chipotle chicken ciabatta,green st. lto,thursday,lunch,340,True,False,True,False,False,True,False,True,False,False,False,False,False,False,False
+old-fashioned mashed potatoes,ignite lto,thursday,lunch,120,,,,,,,,,,,,False,False,False,True
+yellow summer squash,ignite lto,thursday,lunch,45,False,False,True,False,False,True,False,False,True,,True,False,False,False,True
+chicken tagine,streetfare,thursday,lunch,150,,,,,,,,,,,,False,False,False,False
+moroccan roasted carrots,streetfare,thursday,lunch,100,False,False,False,False,False,False,False,False,True,,,False,False,True,True
+black beans & rice with bacon,vespa pizza,thursday,lunch,140,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+peanut butter swirl brownie,dtg,friday,lunch,240,,,,,,,,,,,,False,False,False,True
+blueberry crumb cupcake,dtg,friday,lunch,160,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+steamed broccoli florets,ignite lto,friday,lunch,20,False,False,False,False,False,False,False,False,True,True,,False,False,True,True
+shrimp fra diavolo,streetfare,friday,lunch,60,False,False,False,False,True,False,False,False,True,True,,False,False,False,False
+buttery penne,streetfare,friday,lunch,110,False,False,True,False,False,True,False,True,False,False,True,False,False,False,True
+italian green beans,streetfare,friday,lunch,40,False,False,True,False,False,True,False,False,True,,,False,False,False,True
+chicken pho,vespa lto,friday,lunch,260,,,,,,,,,,,,False,False,False,False
+broccoli cheddar melt,green st. panini,monday,dinner,610,True,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+nacho grilled cheese,green st. panini,monday,dinner,370,False,False,True,False,False,True,False,True,False,False,False,False,False,False,True
+balsamic chicken & farro bowl,vespa lto,tuesday,dinner,440,False,False,False,False,False,False,False,True,False,False,,False,False,False,False
+maple apple cobbler,dtg,wednesday,dinner,350,True,False,True,False,False,True,False,True,False,,,False,False,False,True
+southwest fajitas,vespa lto,wednesday,dinner,370,False,False,True,False,False,True,False,True,False,,,False,False,False,False
+spiced pumpkin blondie,dtg,thursday,dinner,260,,,,,,,,,,,,False,False,False,True
+peanut butter devil's food parfait,dtg,thursday,dinner,230,,,,,,,,,,,,False,False,False,False
+vegan beef burrito,uc veg hot,thursday,dinner,360,,,,,,,,,,,,False,False,True,True
+loaded fish tacos,vespa lto,thursday,dinner,170,False,True,True,False,False,True,False,True,False,False,,False,False,False,False
+overstuffed potato,vespa pizza,thursday,dinner,390,,,,,,,,,,,,False,False,False,False
+salted caramel mini cupcake,dtg,friday,dinner,170,True,False,True,False,False,True,False,True,False,True,True,False,False,False,False
+hummus vegetable wrap,green st. lto,friday,dinner,190,,,,,,,,,,,,False,False,False,True
+"chicken, edamame & quinoa salad",vespa lto,friday,dinner,380,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+vegan shepherds pie,uc veg hot,saturday,dinner,250,,,,,,,,,,,,False,False,True,True
+blueberry mini muffin,dtg,sunday,dinner,80,True,False,True,False,False,True,False,True,False,True,,False,False,False,True
+sauteed mushroom ravioli,vespa lto,sunday,dinner,230,,,,,,,,,,,,False,False,False,False
